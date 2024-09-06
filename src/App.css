@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Titan+One&display=swap");
+body {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text {
+    -webkit-text-stroke-width: 2px;
+    stroke-width: 2px;
+    -webkit-text-stroke-color: #401c10;
+    --tw-drop-shadow: drop-shadow(4px 4px 0 #401c10);
+}
+body {
+}
+.backgroundImage {
+    background-image: linear-gradient(90deg, rgb(64 28 16) 0%, #ffffff00 100%);
+}
